@@ -103,7 +103,7 @@ signUpButton.addEventListener("click",  (e) => {
         })
         .then(() => {
             showSuccessAlert(); 
-            window.location.href = "/Home/Index.html";
+            window.location.href = "/Home/Home";
             console.log("Usuário cadastrado com sucesso!");
         })
         .catch((error) => {
