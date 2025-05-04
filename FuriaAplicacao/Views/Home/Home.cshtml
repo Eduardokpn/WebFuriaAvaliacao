@@ -1,0 +1,104 @@
+﻿
+
+<div class="Rectangle-2 d-flex justify-content-between align-content-center" style="color: white; margin: 5%; padding:2%;">
+    <h1 id="userName">UTILIZADOR</h1>
+    <div class="d-flex justify-content-between"> 
+        <img id="emblem" src="/css/emblemaBronze.png" alt="Emblemat" />
+        <h1 id="nivel">LVL</h1>
+    </div>
+</div>
+
+<div class="homeArea d-flex justify-content-between align-content-center">
+    <!-- Cabeçalho de Tarefas (Roxo) -->
+    <div class="task-header">
+        <header class="purple-header">TAREFAS</header>
+        <div id="quest">
+            <button class="tasks" id="quizButton">QUEREMOS CONHECER MAIS SOBRE VOCÊ, E VC GANHA 1000pts 🚀</button>
+            <button class="xAuth justify-content-center" id="submitTwitter">Vamos ser Autênticos? ENTRE COM TWITTER E GANHE 1000pts 🚀</button>
+        </div>
+    </div>
+
+    <!-- Cabeçalho de Prêmios (Roxo) -->
+    <div class="award-header">
+        <header class="purple-header">PRÊMIOS</header>
+        <div id="awards">
+            <button class="awardBTN" id="awardButton">CUPOM 10% DE DESCONTO NAS LOJA DA FURIA</button>
+        </div>
+    </div>
+</div>
+
+<div id="couponModal" class="modalCupom">
+    <div class="modal-content-Cumpom">
+        <span class="close-btn-cp" id="closeModalCumpom">&times;</span>
+        <h2>Seu Cupom de Desconto:</h2>
+        <p id="couponCode">FURIA10</p>
+    </div>
+</div>
+
+<div id="quizModal" class="modal">
+    <div class="modal-content">
+        <span class="close-btn">&times;</span>
+        <h2>Questionário Fúria</h2>
+        <form id="furiaQuiz">
+            <!-- Pergunta 1 -->
+            <div class="question">
+                <h3>1. Onde você conheceu a Fúria?</h3>
+                <div class="options">
+                    <label class="option"><input type="radio" name="q1" value="twitch/YouTube" required> Twitch/YouTube</label>
+                    <label class="option"><input type="radio" name="q1" value="redes sociais"> Redes sociais</label>
+                    <label class="option"><input type="radio" name="q1" value="evento presencial"> Evento presencial</label>
+                    <label class="option"><input type="radio" name="q1" value="Indicação amigos"> Indicação de amigos</label>
+                </div>
+            </div>
+
+            <!-- Pergunta 2 -->
+            <div class="question">
+                <h3>2. Qual atividade da Fúria você MAIS fez em 2024?</h3>
+                <div class="options">
+                    <label class="option"><input type="radio" name="q2" value="evento" required> Fui a um evento</label>
+                    <label class="option"><input type="radio" name="q2" value="compra"> Comprei produtos</label>
+                    <label class="option"><input type="radio" name="q2" value="live"> Interagi em lives</label>
+                    <label class="option"><input type="radio" name="q2" value="sorteio"> Participei de sorteios</label>
+                </div>
+            </div>
+
+            <div class="question">
+                <h3>3. Você comprou algum produto oficial da Fúria em 2024</h3>
+                <div class="options">
+                    <label class="option"><input type="radio" name="q3" value="sim" required> Sim </label>
+                    <label class="option"><input type="radio" name="q3" value="pretende"> Não, mas pretendo</label>
+                    <label class="option"><input type="radio" name="q3" value="parceiros">  Só itens de parceiros</label>
+                    <label class="option"><input type="radio" name="q3" value="não"> Não tenho interesse</label>
+                </div>
+            </div>
+
+            <div class="question">
+                <h3>4. Onde você MAIS assiste aos jogos?</h3>
+                <div class="options">
+                    <label class="option"><input type="radio" name="q4" value="Twitch" required> Twitch </label>
+                    <label class="option"><input type="radio" name="q4" value="YouTube"> YouTube</label>
+                    <label class="option"><input type="radio" name="q4" value="ESPN "> ESPN</label>
+                    <label class="option"><input type="radio" name="q4" value="não assiste"> Não Assite</label>
+                </div>
+            </div>
+
+            <div class="question">
+                <h3>5. Qual jogo da Fúria você MAIS joga no seu dia a dia?</h3>
+                <div class="options">
+                    <label class="option"><input type="radio" name="q5" value="CS2" required> CS2</label>
+                    <label class="option"><input type="radio" name="q5" value="Valorant"> Valorant</label>
+                    <label class="option"><input type="radio" name="q5" value="LOL"> Lol</label>
+                    <label class="option"><input type="radio" name="q5" value="não assite"> Não assite</label>
+                </div>
+            </div>
+   
+            <button type="submit" id="submitBtn">Enviar Respostas</button>
+        </form>
+    </div>
+</div>
+
+   
+@section Scripts {
+    <script type="module" src="~/js/home.js"></script>
+}
+

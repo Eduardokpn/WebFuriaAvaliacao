@@ -1,0 +1,201 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\eduar\\OneDrive\\Documentos\\Projetos\\FuriaAplicacao\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{02CB513D-DDA9-4C30-82DE-5606FE86B378}|FuriaAplicacao\\FuriaAplicacao.csproj|c:\\users\\eduar\\onedrive\\documentos\\projetos\\furiaaplicacao\\furiaaplicacao\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02CB513D-DDA9-4C30-82DE-5606FE86B378}|FuriaAplicacao\\FuriaAplicacao.csproj|solutionrelative:furiaaplicacao\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02CB513D-DDA9-4C30-82DE-5606FE86B378}|FuriaAplicacao\\FuriaAplicacao.csproj|c:\\users\\eduar\\onedrive\\documentos\\projetos\\furiaaplicacao\\furiaaplicacao\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{02CB513D-DDA9-4C30-82DE-5606FE86B378}|FuriaAplicacao\\FuriaAplicacao.csproj|solutionrelative:furiaaplicacao\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02CB513D-DDA9-4C30-82DE-5606FE86B378}|FuriaAplicacao\\FuriaAplicacao.csproj|c:\\users\\eduar\\onedrive\\documentos\\projetos\\furiaaplicacao\\furiaaplicacao\\views\\home\\home.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{02CB513D-DDA9-4C30-82DE-5606FE86B378}|FuriaAplicacao\\FuriaAplicacao.csproj|solutionrelative:furiaaplicacao\\views\\home\\home.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02CB513D-DDA9-4C30-82DE-5606FE86B378}|FuriaAplicacao\\FuriaAplicacao.csproj|c:\\users\\eduar\\onedrive\\documentos\\projetos\\furiaaplicacao\\furiaaplicacao\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02CB513D-DDA9-4C30-82DE-5606FE86B378}|FuriaAplicacao\\FuriaAplicacao.csproj|solutionrelative:furiaaplicacao\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02CB513D-DDA9-4C30-82DE-5606FE86B378}|FuriaAplicacao\\FuriaAplicacao.csproj|c:\\users\\eduar\\onedrive\\documentos\\projetos\\furiaaplicacao\\furiaaplicacao\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02CB513D-DDA9-4C30-82DE-5606FE86B378}|FuriaAplicacao\\FuriaAplicacao.csproj|solutionrelative:furiaaplicacao\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02CB513D-DDA9-4C30-82DE-5606FE86B378}|FuriaAplicacao\\FuriaAplicacao.csproj|c:\\users\\eduar\\onedrive\\documentos\\projetos\\furiaaplicacao\\furiaaplicacao\\wwwroot\\js\\home.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{02CB513D-DDA9-4C30-82DE-5606FE86B378}|FuriaAplicacao\\FuriaAplicacao.csproj|solutionrelative:furiaaplicacao\\wwwroot\\js\\home.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02CB513D-DDA9-4C30-82DE-5606FE86B378}|FuriaAplicacao\\FuriaAplicacao.csproj|c:\\users\\eduar\\onedrive\\documentos\\projetos\\furiaaplicacao\\furiaaplicacao\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{02CB513D-DDA9-4C30-82DE-5606FE86B378}|FuriaAplicacao\\FuriaAplicacao.csproj|solutionrelative:furiaaplicacao\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02CB513D-DDA9-4C30-82DE-5606FE86B378}|FuriaAplicacao\\FuriaAplicacao.csproj|c:\\users\\eduar\\onedrive\\documentos\\projetos\\furiaaplicacao\\furiaaplicacao\\wwwroot\\js\\firebase-login.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{02CB513D-DDA9-4C30-82DE-5606FE86B378}|FuriaAplicacao\\FuriaAplicacao.csproj|solutionrelative:furiaaplicacao\\wwwroot\\js\\firebase-login.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02CB513D-DDA9-4C30-82DE-5606FE86B378}|FuriaAplicacao\\FuriaAplicacao.csproj|c:\\users\\eduar\\onedrive\\documentos\\projetos\\furiaaplicacao\\furiaaplicacao\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{02CB513D-DDA9-4C30-82DE-5606FE86B378}|FuriaAplicacao\\FuriaAplicacao.csproj|solutionrelative:furiaaplicacao\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02CB513D-DDA9-4C30-82DE-5606FE86B378}|FuriaAplicacao\\FuriaAplicacao.csproj|c:\\users\\eduar\\onedrive\\documentos\\projetos\\furiaaplicacao\\furiaaplicacao\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{02CB513D-DDA9-4C30-82DE-5606FE86B378}|FuriaAplicacao\\FuriaAplicacao.csproj|solutionrelative:furiaaplicacao\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 371,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\eduar\\OneDrive\\Documentos\\Projetos\\FuriaAplicacao\\FuriaAplicacao\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "FuriaAplicacao\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\eduar\\OneDrive\\Documentos\\Projetos\\FuriaAplicacao\\FuriaAplicacao\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "FuriaAplicacao\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAACIBAAAAAAAAAAAiwEEBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-05-03T01:24:54.431Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\eduar\\OneDrive\\Documentos\\Projetos\\FuriaAplicacao\\FuriaAplicacao\\Program.cs",
+              "RelativeDocumentMoniker": "FuriaAplicacao\\Program.cs",
+              "ToolTip": "C:\\Users\\eduar\\OneDrive\\Documentos\\Projetos\\FuriaAplicacao\\FuriaAplicacao\\Program.cs",
+              "RelativeToolTip": "FuriaAplicacao\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T11:05:43.619Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\eduar\\OneDrive\\Documentos\\Projetos\\FuriaAplicacao\\FuriaAplicacao\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "FuriaAplicacao\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\eduar\\OneDrive\\Documentos\\Projetos\\FuriaAplicacao\\FuriaAplicacao\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "FuriaAplicacao\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T11:05:32.043Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\eduar\\OneDrive\\Documentos\\Projetos\\FuriaAplicacao\\FuriaAplicacao\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "FuriaAplicacao\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\eduar\\OneDrive\\Documentos\\Projetos\\FuriaAplicacao\\FuriaAplicacao\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "FuriaAplicacao\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T11:05:29.621Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "site.js",
+              "DocumentMoniker": "C:\\Users\\eduar\\OneDrive\\Documentos\\Projetos\\FuriaAplicacao\\FuriaAplicacao\\wwwroot\\js\\site.js",
+              "RelativeDocumentMoniker": "FuriaAplicacao\\wwwroot\\js\\site.js",
+              "ToolTip": "C:\\Users\\eduar\\OneDrive\\Documentos\\Projetos\\FuriaAplicacao\\FuriaAplicacao\\wwwroot\\js\\site.js",
+              "RelativeToolTip": "FuriaAplicacao\\wwwroot\\js\\site.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-05-03T18:37:16.869Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\eduar\\OneDrive\\Documentos\\Projetos\\FuriaAplicacao\\FuriaAplicacao\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "FuriaAplicacao\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\eduar\\OneDrive\\Documentos\\Projetos\\FuriaAplicacao\\FuriaAplicacao\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "FuriaAplicacao\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-03T16:09:37.322Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Home.cshtml",
+              "DocumentMoniker": "C:\\Users\\eduar\\OneDrive\\Documentos\\Projetos\\FuriaAplicacao\\FuriaAplicacao\\Views\\Home\\Home.cshtml",
+              "RelativeDocumentMoniker": "FuriaAplicacao\\Views\\Home\\Home.cshtml",
+              "ToolTip": "C:\\Users\\eduar\\OneDrive\\Documentos\\Projetos\\FuriaAplicacao\\FuriaAplicacao\\Views\\Home\\Home.cshtml",
+              "RelativeToolTip": "FuriaAplicacao\\Views\\Home\\Home.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-03T15:47:22.204Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "firebase-login.js",
+              "DocumentMoniker": "C:\\Users\\eduar\\OneDrive\\Documentos\\Projetos\\FuriaAplicacao\\FuriaAplicacao\\wwwroot\\js\\firebase-login.js",
+              "RelativeDocumentMoniker": "FuriaAplicacao\\wwwroot\\js\\firebase-login.js",
+              "ToolTip": "C:\\Users\\eduar\\OneDrive\\Documentos\\Projetos\\FuriaAplicacao\\FuriaAplicacao\\wwwroot\\js\\firebase-login.js",
+              "RelativeToolTip": "FuriaAplicacao\\wwwroot\\js\\firebase-login.js",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAQwCQAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-05-03T15:40:03.843Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "home.js",
+              "DocumentMoniker": "C:\\Users\\eduar\\OneDrive\\Documentos\\Projetos\\FuriaAplicacao\\FuriaAplicacao\\wwwroot\\js\\home.js",
+              "RelativeDocumentMoniker": "FuriaAplicacao\\wwwroot\\js\\home.js",
+              "ToolTip": "C:\\Users\\eduar\\OneDrive\\Documentos\\Projetos\\FuriaAplicacao\\FuriaAplicacao\\wwwroot\\js\\home.js",
+              "RelativeToolTip": "FuriaAplicacao\\wwwroot\\js\\home.js",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAAAHoAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-05-03T00:53:11.408Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\eduar\\OneDrive\\Documentos\\Projetos\\FuriaAplicacao\\FuriaAplicacao\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "FuriaAplicacao\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\eduar\\OneDrive\\Documentos\\Projetos\\FuriaAplicacao\\FuriaAplicacao\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "FuriaAplicacao\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-03T01:24:45.958Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

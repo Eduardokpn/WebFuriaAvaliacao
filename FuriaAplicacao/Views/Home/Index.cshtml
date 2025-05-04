@@ -1,0 +1,61 @@
+﻿@{
+    ViewData["Title"] = "Login";
+}
+<div class="container" style=" color: white !important;">
+    <div class="login-container">
+        <h2 class="text-center mb-4">Login</h2>
+
+        <!-- Alertas -->
+        <div id="successAlert" class="alert alert-success alert-dismissible fade show d-none" role="alert">
+            <strong>Conta criada com sucesso!</strong> Você já pode fazer login.
+            <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
+        </div>
+
+
+
+        <!-- Formulário -->
+        <form id="authForm">
+            <!-- Campos comuns -->
+            <div class="mb-3">
+                <label for="email" class="form-label">Email</label>
+                <input type="email" class="form-control" id="email" required>
+            </div>
+
+            <div class="mb-3">
+                <label for="password" class="form-label">Senha</label>
+                <input type="password" class="form-control" id="password" required>
+            </div> -->
+            <div id="nameFields" class="name-fields mb-3" style="display: none;">
+                <div class="row">
+                    <div class="col-md-6 mb-3">
+                        <label for="firstName" class="form-label">Nome</label>
+                        <input type="text" class="form-control" id="firstName">
+                    </div>
+                    <div class="col-md-6 mb-3">
+                        <label for="lastName" class="form-label">Sobrenome</label>
+                        <input type="text" class="form-control" id="lastName">
+                    </div>
+                </div>
+            </div>
+
+            <!-- Botão de Login -->
+            <button type="button" class="btn btn-primary w-100 mb-3" id="submitLogin">Entrar</button>
+
+            <!-- Botão de Cadastro -->
+            <button type="button" class="btn btn-success w-100 mb-3" id="submitSignUp" style="display: none;">Cadastrar</button>
+
+            <button type="button" class="btn btn-outline-danger w-100 mb-3" id="googleLogin">
+                <i class="bi bi-google"></i> Entrar com Google
+            </button>
+
+            <div class="text-center">
+                <a href="#" id="toggleRegister">Não tem uma conta? Cadastre-se</a>
+            </div>
+        </form>
+    </div>
+</div>
+
+@section Scripts {
+    <script type="module" src="~/js/firebase-login.js" asp-append-version="true"></script>
+    <script type="module" src="~/js/site.js" asp-append-version="true"></script>
+}
